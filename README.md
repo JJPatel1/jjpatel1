@@ -1,4 +1,4 @@
-# 📊 Hi, I'm [Your Name] | Data Analyst
+# 📊 Hi, I'm Jiya, a Data Analyst!
 Change data into actionable business stories. 
 
 ---
