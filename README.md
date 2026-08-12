@@ -2,15 +2,12 @@
   <img src="Untitled%20design.gif" width="100%" height="250">
 </p>
 
-<h1 align="center">Hey, I'm 👋</h1>
+<h1 align="center">Hey, I'm Janki!</h1>
 
 <p align="center">
-  <strong>📊 Aspiring Data Analyst</strong>
+  <strong> Aspiring Data Analyst on a mission to turn data into meaningful decisions! Continuously learning, building, and sharing projects - one dataset at a time.  </strong>
 </p>
 
-<p align="center">
-  Turning data into meaningful decisions, one dataset at a time.
-</p>
 
 ---
 
@@ -47,7 +44,7 @@
 
 ---
 
-<h2 align="center">📚 <i>Currently Learning</i></h2>
+<h2 align="center">📚 <i>Learning Tech Stack</i></h2>
 
 <p align="center">
 
