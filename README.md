@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">⚙️ <i>Technologies</i></h2>
+<h2 align="center"><i>Technologies</i></h2>
 
 <p align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">📊 <i>About Me</i></h2>
+<h2 align="center"><i>About Me</i></h2>
 
 <p align="center">
   I'm an aspiring Data Analyst passionate about discovering insights hidden within data.
@@ -44,21 +44,25 @@
 
 ---
 
-<h2 align="center">📚 <i>Learning Tech Stack</i></h2>
+<h2 align="center">📚 <i>Currently Learning</i></h2>
 
 <p align="center">
 
-🔹 SQL   
-🔹 Python   
-🔹 Excel   
-🔹 Power BI   
-🔹 Tableau
+<img src="https://img.shields.io/badge/SQL-5689B8?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-5689B8?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-5689B8?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-5689B8?style=for-the-badge&logo=powerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-5689B8?style=for-the-badge&logo=tableau&logoColor=white">
 
 </p>
 
+
 ---
 
-<h2 align="center">📈 <i>Featured Projects</i></h2>
+<h2 align="center"><i>Featured Projects</i></h2>
 
 <p align="center">
   🚧 Projects coming soon...
