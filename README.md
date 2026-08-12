@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Untitled%20design.gif" width="100%" height="250">
+  <img src="Untitled%20design.gif" width="200%" height="250">
 </p>
 
 # Hey, I'm [Your Name] 👋
