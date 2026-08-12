@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="united%20design.gif" width="100%">
+</p>
+
 # Hey, I'm [Your Name] 👋
 
 ## 📊 Aspiring Data Analyst
