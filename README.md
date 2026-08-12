@@ -44,20 +44,6 @@
 
 ---
 
-<h2 align="center">📚 <i>Currently Learning</i></h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-5689B8?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-5689B8?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-5689B8?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/Power_BI-5689B8?style=for-the-badge&logo=powerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-5689B8?style=for-the-badge&logo=tableau&logoColor=white">
-
-</p>
 
 
 ---
